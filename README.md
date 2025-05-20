@@ -1,6 +1,3 @@
-# medical-ml-classification
-Deep learning project for classifying Alzheimer's disease from MRI scans using CNN, ViT, and other models.
-
 # 🧠 Deep Learning Study for Image Classification of Alzheimer's MRI
 
 **Author**: Simone Castelli  
