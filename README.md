@@ -72,8 +72,8 @@ This project investigates the use of deep learning architectures to classify Alz
 ## 📂 Repository Contents
 
 - `Notebook.ipynb` – Jupyter notebook with all data preprocessing, model training, and evaluation  
-- `Report.docx` – Full written report detailing methodology, results, and references  
 - `Presentation.pdf` – Slide deck summarizing the project and findings
+- `Report.docx` – Full written report detailing methodology, results, and references  
 
 ---
 
